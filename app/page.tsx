@@ -230,9 +230,9 @@ export default function Home() {
         >
            <div className="inline-block border border-[#AA381E]/60 px-5 py-1.5 rounded-sm bg-[#AA381E]/5 backdrop-blur-sm">
               <div className="flex items-center gap-3 text-[#AA381E]">
-                 <span className="text-xs md:text-sm tracking-[0.2em] font-bold">Dec. 03</span>
+                 <span className="text-xs md:text-sm tracking-[0.2em] font-bold">2004.</span>
                  <span className="w-[1px] h-3 bg-[#AA381E]/50"></span>
-                 <span className="text-xs md:text-sm tracking-[0.2em] font-bold">2004</span>
+                 <span className="text-xs md:text-sm tracking-[0.2em] font-bold">12.03</span>
               </div>
            </div>
         </motion.div>
